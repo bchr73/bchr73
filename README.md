@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my (modest) zen garden. I enjoy automating the things in my life, and the joy of easy to use tidy configs. Please, have a look around.
+
 <!--
 **bchr73/bchr73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
